@@ -32,8 +32,7 @@ def get_items_filters(
         seller=seller,
         favorited=favorited,
         limit=limit,
-        offset=offset,
-        title=title
+        offset=offset
     )
 
 
